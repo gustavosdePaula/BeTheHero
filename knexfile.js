@@ -26,7 +26,7 @@ module.exports = {
   staging: {
     client: 'postgresql',
     connection: {
-      database: 'my_db',
+      database: './src/database/db.sqlite',
       user:     'username',
       password: 'password'
     },
@@ -42,17 +42,16 @@ module.exports = {
   production: {
     client: 'postgresql',
     connection: {
-      database: 'my_db',
-      user:     'username',
-      password: 'password'
+      database: process.env.DATABASE_URL
     },
     pool: {
       min: 2,
       max: 10
     },
     migrations: {
-      tableName: 'knex_migrations'
-    }
+      directory: "./src/database/migrations"
+    },
+    useNullAsDefault: true
   }
 
 };

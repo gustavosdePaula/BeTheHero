@@ -1,9 +1,9 @@
 {
-  "name": "bethehero",
+  "name": "backend",
   "version": "1.0.0",
-  "main": "backend/src/server.js",
+  "main": "index.js",
   "author": "Gustavo S. de Paula",
-  "license": "MIT", 
+  "license": "MIT",
   "dependencies": {
     "celebrate": "^12.0.1",
     "cors": "^2.8.5",
@@ -11,13 +11,16 @@
     "express": "^4.17.1",
     "knex": "^0.20.13",
     "sqlite3": "^4.1.1"
-  }, 
-  "scripts": {    
-    "start": "cross-env NODE_ENV=production knex migrate:latest"  
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "cross-env NODE_ENV=test jest"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2",
     "jest": "^25.2.3"
+
   }
 }
