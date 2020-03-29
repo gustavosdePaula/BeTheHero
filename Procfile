@@ -1,1 +1,1 @@
-APP_BASE=./frontend
+APP_BASE=./backend
