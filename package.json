@@ -13,7 +13,7 @@
     "sqlite3": "^4.1.1"
   }, 
   "scripts": {    
-    "start": "node backend/src/server.js"  
+    "start": "cross-env NODE_ENV=production knex migrate:latest"  
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
