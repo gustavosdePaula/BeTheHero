@@ -43,16 +43,9 @@ module.exports = {
     client: 'pg',
     connection: {
       database: process.env.DATABASE_URL,
-      user:"rellvcsnukwxwn",
-      password: "3ea3d8974f683e79e6a5b163eeca634615eb0c430fff74c8755dd9e7e8f9c02c"
-    },
-    pool: {
-      min: 2,
-      max: 10
-    },
+    },    
     migrations: {
-      directory: "./src/database/migrations",
-      tableName: 'migrations'
+      directory: "./src/database/migrations",      
     },
     useNullAsDefault: true,
     ssl:true
