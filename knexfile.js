@@ -49,9 +49,11 @@ module.exports = {
       max: 10
     },
     migrations: {
-      directory: "./src/database/migrations"
+      directory: "./src/database/migrations",
+      tableName: 'migrations'
     },
-    useNullAsDefault: true
+    useNullAsDefault: true,
+    ssl:true
   }
 
 };
