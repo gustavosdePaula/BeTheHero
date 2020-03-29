@@ -9,6 +9,10 @@ if(process.env.NODE_ENV == "production") {
     config = configuration.test
 }
 
+
 const connection = knex(config)
+
+
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
 module.exports = connection
