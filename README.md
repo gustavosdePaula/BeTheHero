@@ -65,11 +65,11 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 ## 🔨 Backend
 
 <h2 align="center">
-  <a href="https://github.com/gustavosdePaula/BeTheHero/tree/master/backend" target="_blank"><img src="./assets/backend-computer.png" alt="Backend Photo"></a>
+  <a href="https://github.com/gustavosdePaula/BeTheHero/tree/master/backend" target="_blank"><img height="300" src="./assets/backend-computer.png" alt="Backend Photo"></a>
 </h2>
 
 <h1 align="center">
-<a href="./assets/Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=BeTheHero&uri=https://raw.githubusercontent.com/gustavosdePaula/BeTheHero/master/assets/Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </h1>
 
 ## 🌐 Frontend
@@ -115,6 +115,11 @@ cd mobile
 yarn
 yarn start
 ```
+## Insomnia
+
+<h1 align="center">
+<a href="https://insomnia.rest/run/?label=BeTheHero&uri=https://raw.githubusercontent.com/gustavosdePaula/BeTheHero/master/assets/Insomnia.json" target="_blank"><img src="./assets/insomnia.png" height="300" alt="Run in Insomnia"></a>
+</h1>
 
 ## 😉 Como contribuir
 
