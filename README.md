@@ -20,14 +20,14 @@
 
 <p align="center">
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">🔨 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">🌐 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">😉 Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
   <a href="#-como-executar">⚙️ Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-licença">🧾 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licença">🧑 Autor</a>
+    <a href="#-Autor">🧑 Autor</a>
 </p>
 
 <br>
@@ -61,10 +61,10 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
     <img  src="./assets/frontend-computer0.png" />
 </h1>
 
-<!-- ## 📱 Mobile
-<h1 align="center">
-<a href="./assets/Insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</h1> -->
+## 📱 Mobile
+<h2 align="center">
+  <img src="./assets/mobile.png" alt="Backend Photo">
+</h2>
     
 ## ⚙️ Como Executar
 
