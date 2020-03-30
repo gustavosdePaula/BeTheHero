@@ -52,7 +52,7 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 ## 🔨 Backend
 
 <h2 align="center">
-  <img src="./assets/backend-computer.png" alt="Backend Photo">
+  <a href="https://github.com/gustavosdePaula/BeTheHero/tree/master/backend" target="_blank"><img src="./assets/backend-computer.png" alt="Backend Photo"></a>
 </h2>
 
 <h1 align="center">
@@ -61,12 +61,13 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 
 ## 🌐 Frontend
 <h1 align="center">
-    <img  src="./assets/frontend-computer0.png" />
+<a href="https://github.com/gustavosdePaula/BeTheHero/tree/master/frontend" target="_blank">
+    <img  src="./assets/frontend-computer0.png" /></a>
 </h1>
 
 ## 📱 Mobile
 <h2 align="center">
-  <img height="250" src="./assets/mobile.png" alt="Backend Photo">
+  <a href="https://github.com/gustavosdePaula/BeTheHero/tree/master/mobile" target="_blank"><img height="250" src="./assets/mobile.png" alt="Mobile"></a>
 </h2>
 
 ## ☁️ Demonstração
