@@ -61,7 +61,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Jest](https://jestjs.io/)
 
 ## 🖥️ Projeto
-O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar com as ONGS/pessoa que tenham vontade de ser ajudados, para receber a ajuda é necessário um cadastro nominal e também fazer o cadastro de caso na aplicação web para ajudar é necessário baixar a versão mobile vendo assim os casos de todas a ongs e ajudando essas ONGS/pessoas de forma monetária.
+O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar com as ONGS. As ONGS se cadastram na parte web e listam os casos que precisam se ajuda, informando descrição e valor. 
+
+Na parte Mobile pessoas podem encontrar esses casos e entrar em contato via wpp ou email. 
 ## 🔨 Backend
 
 <h2 align="center">
