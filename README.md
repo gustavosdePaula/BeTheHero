@@ -58,7 +58,7 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 
 ## 🌐 Frontend
 <h1 align="center">
-    <img height="250"  src="./assets/frontend-computer0.png" />
+    <img  src="./assets/frontend-computer0.png" />
 </h1>
 
 ## 📱 Mobile
@@ -72,21 +72,24 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 ```sh
 git clone https://github.com/gustavosdepaula/BeTheHero.git
 cd BeTheHero
-yarn install
+
 ```
 #### Iniciando Backend
 ```sh
 cd backend
+yarn
 yarn start
 ```
 #### Iniciando Frontend
 ```sh
 cd frontend
+yarn
 yarn start
 ```
 #### Iniciando mobile
 ```sh
 cd mobile
+yarn
 yarn start
 ```
 
