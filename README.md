@@ -24,14 +24,15 @@
   <a href="#-backend">🔨 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">🌐 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-mobile">📱 Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">😉 Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
+  <a href="#-demo">☁️ Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">⚙️ Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">😉 Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
    <a href="#-licença">🧾 Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-Autor">🧑 Autor</a>
 </p>
 
-<br>
----
+
+<h1>
 
 ## 🚀 Tecnologias
 
@@ -41,8 +42,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-- [Jest](https://jestjs.io/)
 - [Celebrate](https://github.com/arb/celebrate)
+- [Jest](https://jestjs.io/)
 
 ## 🖥️ Projeto
 O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar com as ONGS/pessoa que tenham vontade de ser ajudados, para receber a ajuda é necessário um cadastro nominal e também fazer o cadastro de caso na aplicação web para ajudar é necessário baixar a versão mobile vendo assim os casos de todas a ongs e ajudando essas ONGS/pessoas de forma monetária.
@@ -65,7 +66,13 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 <h2 align="center">
   <img height="250" src="./assets/mobile.png" alt="Backend Photo">
 </h2>
-    
+
+## ☁️ Demonstração
+
+- [Netlify](https://bethehero-1.netlify.com/)
+- [Heroku](https://backend-bethehero-gsp.herokuapp.com)
+
+
 ## ⚙️ Como Executar
 
 #### Clonando o projeto
