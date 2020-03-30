@@ -58,12 +58,12 @@ O Projeto Be The Hero tem como objetivo conectar pessoas com vontade de ajudar c
 
 ## 🌐 Frontend
 <h1 align="center">
-    <img  src="./assets/frontend-computer0.png" />
+    <img height="250"  src="./assets/frontend-computer0.png" />
 </h1>
 
 ## 📱 Mobile
 <h2 align="center">
-  <img src="./assets/mobile.png" alt="Backend Photo">
+  <img height="250" src="./assets/mobile.png" alt="Backend Photo">
 </h2>
     
 ## ⚙️ Como Executar
